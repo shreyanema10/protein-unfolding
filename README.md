@@ -1,2 +1,2 @@
 # protein-unfolding
-modelling energy interactions of protein unfolding
+modelling protein unfolding using monte carlo method
